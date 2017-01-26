@@ -9,6 +9,7 @@ A powerline based ZSH template with a line jump
 - zsh
 - oh-my-zsh
 - Package: ttf-ancient-fonts
+- Powerline Fonts: https://github.com/powerline/fonts
 
 # Preview
 ![alt tag](https://github.com/sokecillo/zsh-powerline-two-lines/raw/master/zsh.png)
