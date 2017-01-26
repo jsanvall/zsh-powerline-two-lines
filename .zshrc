@@ -11,7 +11,7 @@ POWERLINE_DISABLE_RPROMPT="true"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 #ZSH_THEME="agnosterzak"
-ZSH_THEME="powerline"
+ZSH_THEME="powerline-two-lines"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
