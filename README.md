@@ -6,9 +6,12 @@ A powerline based ZSH template with a line jump
 - Copy powerline-two-lines.zsh-theme file to ~/.oh-my-zsh/themes/ folder (or where you have your oh my zsh installation folder)
 
 # Requirements
-- zsh
+- OS Package: zsh
 - oh-my-zsh
-- Package: ttf-ancient-fonts
+  ```
+  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  ```
+- OS Package: ttf-ancient-fonts
 - Powerline Fonts: https://github.com/powerline/fonts
 
 # Preview
