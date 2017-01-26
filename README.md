@@ -8,3 +8,4 @@ A powerline based ZSH template with a line jump
 # Requirements
 - zsh
 - oh-my-zsh
+- Package: ttf-ancient-fonts
